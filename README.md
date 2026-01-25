@@ -18,7 +18,8 @@
 </div>
 
 <!-- About Me Section with Animation -->
-<img align="right" alt="Coding" width="320" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWs2eWt1djhyZjdyYW1lc3oxa21raTExOXJtaTU4Y2hkbXo0c3cwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9xaPqe7BAPNDs86ULk/giphy.gif" style="margin-top: 40px;">
+<img  alt="Coding" width="900" height="350"
+src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWs2eWt1djhyZjdyYW1lc3oxa21raTExOXJtaTU4Y2hkbXo0c3cwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9xaPqe7BAPNDs86ULk/giphy.gif" style="margin-top: 400px;">
 
 ## 🚀 About Me
 
@@ -27,7 +28,7 @@ const balaji = {
     location: "Chennai, Tamil Nadu, India 🇮🇳",
     education: "Robotics and Automation Engineering 🎓",
     role: "Network Engineer & ML Enthusiast",
-    interests: ["Data Science", "AI/ML", "Netw"],
+    interests: ["Data Science", "AI/ML", "Computer Networks"],
     currentFocus: "Building impactful tech solutions 💻",
     funFact: "I turn coffee into code ☕➡️💻",
     lifePhilosophy: "Code with passion, debug with patience"
@@ -40,7 +41,7 @@ const balaji = {
 - 🎯 2025 Goal: **Contribute to 100+ open source projects**
 - ⚡ Fun fact: **I debug faster when listening to music 🎵**
 
-<br clear="right"/>
+<!-- <br clear="right"/> -->
 
 ---
 
