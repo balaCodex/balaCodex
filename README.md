@@ -68,7 +68,7 @@ me.say_hi()
 - 🎯 2025 Goals: **Master System Design** | **Contribute to 100+ OSS Projects**
 - ⚡ Fun fact: **I can debug code faster than I can debug my life 😄**
 - 💬 Ask me about **Python, ML, Computer Networks, React, Node.js**
-- 📫 Reach me: **balajisantha7559@gmail.com**
+- 📫 Reach me: **balajisanthanamofficial@gmail.com**
 
 <br clear="right"/>
 
